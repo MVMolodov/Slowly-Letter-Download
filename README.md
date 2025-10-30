@@ -7,7 +7,8 @@ Just run the script or run the exectubale! (Just make sure you have a template d
 
 How to run:
 Script: download all the necessaray libraries included in the top of the script, run the script, press ENTER when you logged in and opened the chat with your Pen-Pal!
-Executable: download the archive, unpack it, run it. Log in, and then press the ENTER twice in the program screen.
+Executable: https://drive.google.com/file/d/14ikfOQK7k3M0M35MtlvZZnduwcCGTMAf/view?usp=sharing
+Download the archive, unpack it, run it. Log in, and then press the ENTER twice in the program screen.
 
 Possible issues:
 Chrome version error: just enable the code line next to the driver in the script. Change the number in ' ' to the one your Chrome version has, or simply wait for a day/two.
